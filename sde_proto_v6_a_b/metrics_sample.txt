@@ -1,0 +1,6 @@
+
+Sample Budget Engine Metrics:
+EDIT (0,1,"5") depth=1 fallback=False
+EDIT (1,2,"9") depth=1 fallback=False
+EDIT (0,2,"77") depth=1 fallback=False
+Totals: {'climb_total':3,'climb_count':3,'fallbacks':0,'max_depth':1}
