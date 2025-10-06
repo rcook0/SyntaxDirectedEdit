@@ -1,0 +1,2 @@
+def lex(src):
+    return []
